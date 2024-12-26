@@ -16,9 +16,9 @@ ChatEase is an interactive and responsive chatbot interface designed to provide 
 - Delete Chat History: Click the delete button to clear the chat history.
 
 ## ChatEase/
-- ├── index.html        Main HTML file/
-- ├── styles.css        CSS file for styling/
-- ├── scripts.js        JavaScript file for functionality/
+- ├── index.html -> Main HTML file
+- ├── styles.css -> CSS file for styling
+- ├── scripts.js -> JavaScript file for functionality
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
