@@ -22,12 +22,12 @@ To run this project locally, you'll need:
 - Switch Theme: Click the theme toggle button to switch between light and dark modes.
 - Delete Chat History: Click the delete button to clear the chat history.
 
-##Project Structure
- ChatEase/
- ├── index.html        # Main HTML file
- ├── styles.css        # CSS file for styling
- ├── scripts.js        # JavaScript file for functionality
- └── README.md         # This file
+ChatEase/
+├── index.html        # Main HTML file/
+├── styles.css        # CSS file for styling/
+├── scripts.js        # JavaScript file for functionality/
+└── README.md         # This file/
+
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
