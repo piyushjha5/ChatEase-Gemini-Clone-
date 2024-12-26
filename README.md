@@ -28,4 +28,4 @@ Contributions are welcome! If you'd like to contribute to this project, please f
 - Push to the branch (git push origin feature/YourFeature).
 - Open a pull request.
 
-# Visit the website https://piyushjha5.github.io/ChatEase-Gemini-Clone-/
+### Visit the website https://piyushjha5.github.io/ChatEase-Gemini-Clone-/
