@@ -10,24 +10,15 @@ ChatEase is an interactive and responsive chatbot interface designed to provide 
 - **Real-Time Suggestions:** Receive instant suggestions to enhance your interaction with the chatbot.
 - **Typing Effect:** Experience a realistic typing effect as the chatbot responds to your messages.
 
-## Getting Started
-
-### Prerequisites
-
-To run this project locally, you'll need:
-- A web browser (Chrome, Firefox, Safari, etc.)
-
 ## Usage
 - Start a Conversation: Enter a prompt in the input field and press the send button to start a chat.
 - Switch Theme: Click the theme toggle button to switch between light and dark modes.
 - Delete Chat History: Click the delete button to clear the chat history.
 
-ChatEase/
-├── index.html        # Main HTML file/
-├── styles.css        # CSS file for styling/
-├── scripts.js        # JavaScript file for functionality/
-└── README.md         # This file/
-
+## ChatEase/
+- ├── index.html        Main HTML file/
+- ├── styles.css        CSS file for styling/
+- ├── scripts.js        JavaScript file for functionality/
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
