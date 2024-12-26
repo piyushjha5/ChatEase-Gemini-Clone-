@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>chatBot</title>
+
+    <!-- Linking Google Fonts for Icons -->
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Rounded:opsz,wght,FILL,GRAD@24,400,0,0" />
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header class="header">
+        <!-- Header Greetings -->
+        <h2 class="title">Hello, there</h2>
+        <h4 class="sub-title">How can I help you?</h4>
+
+        <!-- Suggestion List -->
+        <ul class="suggestion-list">
+            <li class="suggestion">
+                <h4 class="text">Help me to build a website using PHP and MySQL</h4>
+                <span class="icon material-symbols-rounded">draw</span>
+            </li>
+            <li class="suggestion">
+                <h4 class="text">Java Interview Questions</h4>
+                <span class="icon material-symbols-rounded">Quiz</span>
+            </li>
+            <li class="suggestion">
+                <h4 class="text">Give me some suggestions to improve my resume</h4>
+                <span class="icon material-symbols-rounded">lightbulb</span>
+            </li>
+            <li class="suggestion">
+                <h4 class="text">What are the best way to improve my english communication skills</h4>
+                <span class="icon material-symbols-rounded">Help</span>
+            </li>
+        </ul>
+    </header>
+
+    <!-- Char List / Container -->
+    <div class="chat-list">
+        
+        <!-- <div class="message incoming">
+            <div class="message-content">
+                <img src="https://imgs.search.brave.com/EooA9dbfnpHGX225PpF6pVajAIFcfOlvwBPJzOwY_as/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTYvR29v/Z2xlLUdlbWluaS1M/b2dvLVBORy1QaG90/by0zMDB4MjI1LnBu/Zw" alt="Gemini Image" class="avatar">
+                <p class="text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, tempora!</p>
+            </div>
+            <span class="icon material-symbols-rounded">content_copy</span>
+        </div> -->
+        <!-- <div class="message incoming loading">
+            <div class="message-content">
+                <img src="https://imgs.search.brave.com/EooA9dbfnpHGX225PpF6pVajAIFcfOlvwBPJzOwY_as/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly93d3cu/cG5nYWxsLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMTYvR29v/Z2xlLUdlbWluaS1M/b2dvLVBORy1QaG90/by0zMDB4MjI1LnBu/Zw" alt="Gemini Image" class="avatar">
+                <p class="text">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consectetur, tempora!</p>
+                <div class="loading-indicator">
+                    <div class="loading-bar"></div>
+                    <div class="loading-bar"></div>
+                    <div class="loading-bar"></div>
+                </div>
+            </div>
+            <span class="icon material-symbols-rounded">content_copy</span>
+        </div> -->
+    </div>
+
+    <!-- Typing Area -->
+     <div class="typing-area">
+        <form action="#" class="typing-form">
+            <div class="input-wrapper">
+                <input type="text" placeholder = "Enter a prompt here" class="typing-input" required>
+                <button class="icon material-symbols-rounded">send</button>
+            </div>
+            <div class="action-buttons">
+                <span id="toggle-theme-button" class="icon material-symbols-rounded">light_mode</span>
+                <span id="delete-chat-button" class="icon material-symbols-rounded">delete</span>
+            </div>
+        </form>
+        <p class="disclaimer-text">
+            Information can be inaccurate.
+        </p>
+     </div>
+     
+     <script src="scripts.js"></script>
+</body>
+</html>
