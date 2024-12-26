@@ -18,21 +18,21 @@ To run this project locally, you'll need:
 - A web browser (Chrome, Firefox, Safari, etc.)
 
 ## Usage
-- **Start a Conversation: Enter a prompt in the input field and press the send button to start a chat.
-- **Switch Theme: Click the theme toggle button to switch between light and dark modes.
-- **Delete Chat History: Click the delete button to clear the chat history.
+- Start a Conversation: Enter a prompt in the input field and press the send button to start a chat.
+- Switch Theme: Click the theme toggle button to switch between light and dark modes.
+- Delete Chat History: Click the delete button to clear the chat history.
 
-Project Structure
-ChatEase/
-├── index.html        # Main HTML file
-├── styles.css        # CSS file for styling
-├── scripts.js        # JavaScript file for functionality
-└── README.md         # This file
+##Project Structure
+ ChatEase/
+ ├── index.html        # Main HTML file
+ ├── styles.css        # CSS file for styling
+ ├── scripts.js        # JavaScript file for functionality
+ └── README.md         # This file
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
-- **Fork the repository.
-- **Create a new branch (git checkout -b feature/YourFeature).
-- **Commit your changes (git commit -m 'Add YourFeature').
-- **Push to the branch (git push origin feature/YourFeature).
-- **Open a pull request.
+- Fork the repository.
+- Create a new branch (git checkout -b feature/YourFeature).
+- Commit your changes (git commit -m 'Add YourFeature').
+- Push to the branch (git push origin feature/YourFeature).
+- Open a pull request.
